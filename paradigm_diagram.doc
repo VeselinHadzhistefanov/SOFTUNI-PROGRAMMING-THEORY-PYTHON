@@ -1,0 +1,11 @@
+PROGRAMMING PARADIGM DIAGRAM
+=============================
+
+select=1 | Ternary Conditional | Functional/Declarative | Single expression | Evaluates condition inline | No state mutation | Concise
+
+select=2 | Imperative Reassignment | Imperative/Procedural | Default then override | Step-by-step execution | Mutates variable state | Explicit flow
+
+select=3 | If-Else Block | Structured/Imperative | Branch-based assignment | Control flow structure | Clear conditional paths | Readable
+
+=============================
+SELECTOR MECHANISM | Uses if-elif chain | Procedural dispatch | Global controller pattern | Enables method switching at runtime
